@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR5e0053/ZTDZ/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 悟真集
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+  date: '2015-08-29 02:10:00.986053'
+  source:
+    repository: kanripo
+    path: KR5e0053/KR5e0053_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:5b28e47ea62b741ed17579b370f5c0ddc68a74eb47973af48d86309ebd251022
